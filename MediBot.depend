@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1674241174 source:c:\c\medibot\main.c
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<limits.h>
+	<strings.h>
+
