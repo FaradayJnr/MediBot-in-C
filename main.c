@@ -7,10 +7,6 @@
 #define LINELENGTH 80
 #define SEPCHARS "* .,\"\n"
 
-
-// hash table implementation from here
-// https://gist.githubusercontent.com/tonious/1377667/raw/c814d0833c8699dc017871931a5c5bee11af0f64/hash.c
-
 struct entry_s {
   char *key;
   char *value;
